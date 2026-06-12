@@ -1,0 +1,11 @@
+{
+  "lastChangelogVersion": "0.79.1",
+  "theme": "dark",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-bar",
+    "npm:pi-cache-optimizer"
+  ],
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-flash"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pi-extensions",
+  "private": true,
+  "dependencies": {
+    "pi-bar": "^0.3.39",
+    "pi-cache-optimizer": "^2.6.1",
+    "pi-web-access": "^0.10.7"
+  }
+}

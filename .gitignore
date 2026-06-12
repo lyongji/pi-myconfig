@@ -1,0 +1,11 @@
+# Sensitive auth data
+agent/auth.json
+
+# Auto-generated session history
+agent/sessions/
+
+# npm dependencies (reproducible via package.json)
+agent/npm/node_modules/
+
+# Auto-generated cache optimizer stats
+agent/pi-cache-optimizer-stats.json
